@@ -2,6 +2,6 @@
 #
 
   # Наши спонсоры:
-  -spectr.site
+  ##spectr.site
 
 
