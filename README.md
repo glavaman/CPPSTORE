@@ -1,6 +1,6 @@
 # ***CPPSTORE***
 
-  # Наши спонсоры:
+  # :loudspeaker: Наши спонсоры:
   <__https://spectr.site__>
 
 
