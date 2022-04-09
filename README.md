@@ -1,6 +1,6 @@
 # ***CPPSTORE***
 
   # Наши спонсоры:
-  __spectr.site__
+  <__https://spectr.site__>
 
 
